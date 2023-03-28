@@ -37,5 +37,4 @@ C:\Users\112519\Documents\Projetos\ASP.NET_Core_MVC\ASPNET_Core_MVC\obj\Debug\ne
 C:\Users\112519\Documents\Projetos\ASP.NET_Core_MVC\ASPNET_Core_MVC\obj\Debug\net5.0\ASPNET_Core_MVC.pdb
 C:\Users\112519\Documents\Projetos\ASP.NET_Core_MVC\ASPNET_Core_MVC\obj\Debug\net5.0\ASPNET_Core_MVC.genruntimeconfig.cache
 C:\Users\112519\Documents\Projetos\ASP.NET_Core_MVC\ASPNET_Core_MVC\obj\Debug\net5.0\ASPNET_Core_MVC.csproj.CopyComplete
-C:\Users\112519\Documents\Projetos\ASP.NET_Core_MVC\ASPNET_Core_MVC\obj\Debug\net5.0\ASPNET_Core_MVC.csproj.AssemblyReference.cache
 C:\Users\112519\Documents\Projetos\ASP.NET_Core_MVC\ASPNET_Core_MVC\obj\Debug\net5.0\Razor\Views\Info\Index.cshtml.g.cs
